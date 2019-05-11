@@ -1,0 +1,1 @@
+This is ThortheGuineaPig's first Git project
